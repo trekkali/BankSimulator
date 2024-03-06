@@ -1,4 +1,4 @@
-Ce programme est une simulation basique d'un système de gestion de comptes bancaires. 
+Ce programme est une simulation basique d'un système de gestion de comptes bancaires avec le language python. 
 Il offre une interface utilisateur permettant d'effectuer diverses opérations bancaires, telles que la création de comptes, 
 les retraits, les versements et la consultation des soldes.
 

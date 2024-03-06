@@ -1,3 +1,4 @@
+# Bank simulator
 Ce programme est une simulation d'un système de gestion de comptes bancaires réalisée en Python. Il permet aux utilisateurs d'effectuer diverses opérations bancaires telles que la création de comptes, les retraits, les versements et la consultation des soldes.
 
 Lorsque vous lancez le programme, vous êtes accueilli par un menu principal affichant différentes options. Vous pouvez choisir parmi ces options en saisissant le numéro correspondant à l'opération que vous souhaitez effectuer.

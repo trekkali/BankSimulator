@@ -1,15 +1,14 @@
 # Bank simulator
-Ce programme est une simulation d'un système de gestion de comptes bancaires réalisée en Python. Il permet aux utilisateurs d'effectuer diverses opérations bancaires telles que la création de comptes, les retraits, les versements et la consultation des soldes.
+This program is a simulation of a bank account management system carried out in Python. It allows users to perform various banking operations such as creating accounts, making withdrawals, deposits, and checking balances.
 
-Lorsque vous lancez le programme, vous êtes accueilli par un menu principal affichant différentes options. Vous pouvez choisir parmi ces options en saisissant le numéro correspondant à l'opération que vous souhaitez effectuer.
+When you launch the program, you are greeted with a main menu displaying different options. You can choose from these options by entering the number corresponding to the operation you wish to perform.
 
-Si vous choisissez de créer un compte, le programme vous demande de fournir un nom d'utilisateur et un mot de passe. Un numéro de compte aléatoire est ensuite généré et enregistré dans un fichier texte avec les informations du compte.
+If you choose to create an account, the program asks you to provide a username and password. A random account number is then generated and saved to a text file with the account information.
 
-Les fonctions de retrait et de versement permettent aux utilisateurs de manipuler le solde de leur compte en fournissant leur numéro de compte et leur mot de passe. Si les informations sont correctes et si le solde est suffisant pour un retrait, le montant est retiré du solde. De même, pour un versement, le montant est ajouté au solde.
+Withdrawal and deposit functions allow users to manipulate their account balance by providing their account number and password. If the information is correct and the balance is sufficient for a withdrawal, the amount is withdrawn from the balance. Likewise, for a payment, the amount is added to the balance.
 
-La fonction de consultation permet aux utilisateurs de vérifier le solde de leur compte en fournissant leur numéro de compte et leur mot de passe. Si les informations sont correctes, le solde actuel est affiché à l'utilisateur.
+The lookup feature allows users to check their account balance by providing their account number and password. If the information is correct, the current balance is displayed to the user.
 
-Après chaque opération, l'utilisateur a la possibilité de retourner au menu principal pour effectuer d'autres opérations ou de quitter le programme.
+After each operation, the user has the option to return to the main menu to perform further operations or to exit the program.
 
-Ce projet m'a permis de renforcer mes compétences en programmation Python, notamment en utilisant les fonctions, les boucles, la manipulation de fichiers et les interactions avec l'utilisateur à travers un menu interactif.
-
+This project allowed me to strengthen my Python programming skills, notably using functions, loops, file manipulation and user interactions through an interactive menu.
